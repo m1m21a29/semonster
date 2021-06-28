@@ -1,6 +1,6 @@
 public class Main {
   public static void main(String[] args) {
-    System.out.println("SEMonsterr!");
+    System.out.println("SEMONSTER!");
     Monster monster = new Monster();
     Player player = new Player();
     System.out.println(monster.toString());
